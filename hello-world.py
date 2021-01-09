@@ -1,1 +1,2 @@
-print ("hello world")
+mensaje = "Hello world";
+print (mensaje)
